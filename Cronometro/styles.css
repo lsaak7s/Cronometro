@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist+Pixel:ELSH@0..100&display=swap');
+
+* {
+    margin: 0;
+    color: black;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Geist Pixel', sans-serif;
+    text-decoration: none;
+    background-color: rgb(250, 213, 165);
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column ;
+}
+
+.titulo {
+    font-size: 100px;
+    margin-top: 15px;
+}
+
+.start,.stop {
+    background-color: rgb(250, 213, 165);
+    border-color: none;
+    height: 50px;
+    width: 90px;
+    border-radius: 10px;
+    font-size: 15px;
+    margin-top:15px ;
+}
+.tempo{margin-top: 15px;
+}
