@@ -29,7 +29,7 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 
 1. Clone este repositório:
    ```bash
-   git clone [(https://github.com/lsaak7s/Cronometro).git](https://github.com/lsaak7s/Cronometro)
+   git clone (https://github.com/lsaak7s/Cronometro)
    ```
 
 2. Acesse a pasta do projeto:
