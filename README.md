@@ -29,12 +29,12 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+   git clone [(https://github.com/lsaak7s/Cronometro).git](https://github.com/lsaak7s/Cronometro)
    ```
 
 2. Acesse a pasta do projeto:
    ```bash
-   cd NOME-DO-REPOSITORIO
+   cd Cronometro
    ```
 
 3. Abra o arquivo `index.html` no navegador.
