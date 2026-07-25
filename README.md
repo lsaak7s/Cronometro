@@ -1,5 +1,5 @@
 # ⏱️ Cronômetro
-
+⚙️ Este projeto está em desenvolvimento e recebe melhorias contínuas à medida que avanço nos estudos de JavaScript.
 Um cronômetro simples e intuitivo desenvolvido com HTML, CSS e JavaScript. O projeto permite iniciar, parar e controlar a contagem do tempo de forma prática, sendo ideal para praticar manipulação do DOM, eventos e funções temporizadas em JavaScript.
 
 ## 🚀 Tecnologias utilizadas
